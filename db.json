@@ -1,0 +1,23 @@
+{
+  "producList": [
+    {
+      "productName": "laranja",
+      "category": "Fruits",
+      "fresheness": "Segund Hand",
+      "price": "10",
+      "comment": "kjbscAKB",
+      "date": "2022-10-04T03:00:00.000Z",
+      "id": 1
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
